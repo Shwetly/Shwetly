@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&weight=500&size=32&pause=1000&color=2F99C6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shwetly+Sharma!+%F0%9F%91%8B;Software+Developer;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&weight=500&size=32&pause=1000&color=2F99C6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shwetly+Sharma!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
   <br />
 
   <p align="center">
@@ -15,28 +15,7 @@
   </p>
 </div>
 
----
-
-<h3 align="center">🛠️ Tech Stack</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,docker,terraform,js,ts,fastapi,react,express,nodejs,mysql,mongodb,postgres,html,css,tailwind,aws,git" alt="Skills and tools"/>
-  </a>
-</p>
-
----
+------
 
 
-<div align="center">
-  <h3>🧑‍💻 SYSTEM.ABOUT()</h3>
-  <br />
-  <p align="center">
-    <code>
-      > INITIALIZING PROFILE PROTOCOL...<br>
-      > SOFTWARE_ENGINEER LOADED: SHWETLY SHARMA<br>
-      > EXP: FULL-STACK WEB DEVELOPMENT, BACKEND SERVICES, AWS (MPHASIS, NOKIA)<br>
-      > EDU: B.E. IN COMPUTER SCIENCE (AI&ML) @ RNS INSTITUTE OF TECHNOLOGY<br>
-      <br>
-    </code>
-  </p>
-</div>
+
